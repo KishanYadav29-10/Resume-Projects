@@ -1,0 +1,82 @@
+{
+  "blue": {
+    "complementary": "orange",
+    "analogous": ["cyan", "purple"],
+    "neutral_matches": ["white", "grey", "black"]
+  },
+  "red": {
+    "complementary": "green",
+    "analogous": ["orange", "magenta"],
+    "neutral_matches": ["white", "black"]
+  },
+  "green": {
+    "complementary": "red",
+    "analogous": ["blue", "yellow"],
+    "neutral_matches": ["beige", "grey"]
+  },
+  "yellow": {
+    "complementary": "purple",
+    "analogous": ["orange", "green"],
+    "neutral_matches": ["white", "brown"]
+  },
+  "orange": {
+    "complementary": "blue",
+    "analogous": ["red", "yellow"],
+    "neutral_matches": ["white", "beige"]
+  },
+  "purple": {
+    "complementary": "yellow",
+    "analogous": ["blue", "magenta"],
+    "neutral_matches": ["black", "grey", "white"]
+  },
+  "pink": {
+    "complementary": "teal",
+    "analogous": ["magenta", "peach"],
+    "neutral_matches": ["white", "light grey", "denim"]
+  },
+  "brown": {
+    "complementary": "teal",
+    "analogous": ["beige", "tan"],
+    "neutral_matches": ["cream", "white", "olive"]
+  },
+  "black": {
+    "complementary": "none",
+    "analogous": [],
+    "neutral_matches": ["white", "grey", "denim", "beige"]
+  },
+  "white": {
+    "complementary": "none",
+    "analogous": [],
+    "neutral_matches": ["everything"]
+  },
+  "grey": {
+    "complementary": "none",
+    "analogous": [],
+    "neutral_matches": ["black", "white", "navy", "pastels"]
+  },
+  "teal": {
+    "complementary": "pink",
+    "analogous": ["blue", "green"],
+    "neutral_matches": ["white", "beige", "brown"]
+  },
+  "beige": {
+    "complementary": "navy",
+    "analogous": ["brown", "cream"],
+    "neutral_matches": ["white", "olive", "black"]
+  },
+  "navy": {
+    "complementary": "beige",
+    "analogous": ["blue", "grey"],
+    "neutral_matches": ["white", "tan", "gold"]
+  },
+  "maroon": {
+    "complementary": "olive",
+    "analogous": ["red", "brown"],
+    "neutral_matches": ["white", "black", "cream"]
+  },
+  "olive": {
+    "complementary": "maroon",
+    "analogous": ["green", "brown"],
+    "neutral_matches": ["white", "beige", "khaki"]
+  }
+}
